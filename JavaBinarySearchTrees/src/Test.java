@@ -6,6 +6,7 @@ public class Test {
 
 		System.out.println("Implementation of Binary Search Tree in Java");
 		System.out.println("New commit !!");
+		System.out.println("new line");
 	}
 
 }
