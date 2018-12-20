@@ -17,7 +17,8 @@ public class PalindromeChecker {
 	
 	public static boolean checkForPalindromeHelper(String str) {
 		int startI=0;
-		int endI=str.length()-1;
+		int endI=str.length()-1; 
+		// test
 		return checkForPalindrome(str, startI, endI);
 	}
 
